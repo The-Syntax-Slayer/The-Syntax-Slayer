@@ -88,21 +88,19 @@ philosophy: "Clean code. SOLID design. Agentic solutions."
 ```yaml
 I am a Software Engineer & AI Integration Specialist
 experienced in architecting, building, and deploying
-enterprise-grade applications. I combine core software
-engineering principles with modern Applied GenAI
-capabilities to build autonomous workflows and performant
-user interfaces.
+enterprise-grade applications. I combine core
+software engineering principles with modern Applied
+GenAI capabilities to build autonomous workflows and
+performantuser interfaces.
 
-* Engineering First: Committed to write clean, maintainable,
-and fault-tolerant code using SOLID principles and async
-programming paradigms.
-
-* Intelligent Systems: Proficient in orchestrating LLMs,
-designing custom RAG pipelines, and implementing strict
-input/output verification logic.
-
-* Full-Stack Ownership: Able to take features from whiteboard
-planning to production-level cloud deployments.
+Engineering First: Committed to write clean,
+maintainable, and fault-tolerant code using SOLID
+principles and asyncprogramming paradigms.
+Intelligent Systems: Proficient in orchestrating LLMs,
+designing custom RAG pipelines, and implementing
+strict input/output verification logic.
+Full-Stack Ownership: Able to take features from
+whiteboardplanning to production-level cloud deployments.
 ```
 <br/>
 </td>
