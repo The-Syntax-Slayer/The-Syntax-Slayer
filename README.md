@@ -88,7 +88,7 @@ philosophy: "Clean code. SOLID design. Agentic solutions."
 I am a **Software Engineer & AI Integration Specialist** experienced in architecting, building, and deploying enterprise-grade applications. I combine core software engineering principles with modern Applied GenAI capabilities to build autonomous workflows and performant user interfaces.
 
 *   **Engineering First:** Committed to write clean, maintainable, and fault-tolerant code using SOLID principles and async programming paradigms.
-*   **Intelligent Systems:** Proficient in orchestrating LLMs (Google Gemini/Vertex AI), designing custom RAG pipelines, and implementing strict input/output verification logic.
+*   **Intelligent Systems:** Proficient in orchestrating LLMs, designing custom RAG pipelines, and implementing strict input/output verification logic.
 *   **Full-Stack Ownership:** Able to take features from whiteboard planning to production-level cloud deployments.
 
 </td>
@@ -313,25 +313,25 @@ I am a **Software Engineer & AI Integration Specialist** experienced in architec
   
   <!-- GitHub Stats + Streak in ONE ROW -->
   <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=The-Syntax-Slayer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=The-Syntax-Slayer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
   
   <!-- REAL-TIME LANGUAGE USAGE -->
   <a href="https://github.com/The-Syntax-Slayer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Syntax-Slayer&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-Syntax-Slayer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
   <!-- Activity Graph -->
   <a href="https://github.com/The-Syntax-Slayer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
   
 </div>
