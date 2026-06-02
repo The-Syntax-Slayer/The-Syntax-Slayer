@@ -77,7 +77,8 @@ core_focus:
   - 🛡️ Cybersecurity & AppSec (SOLID)
   - 🗄️ Database Design & Optimization
 
-philosophy: "Clean code. SOLID design. Agentic solutions."
+philosophy:
+  "Clean code. SOLID design. Agentic solutions."
 ```
 
 </td>
