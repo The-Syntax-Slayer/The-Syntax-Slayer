@@ -1,0 +1,7 @@
+# Exclude Resume.txt source file
+Resume.txt
+
+# Local OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
