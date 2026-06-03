@@ -1,5 +1,7 @@
 # Exclude Resume.txt source file
 Resume.txt
+REF.md
+.gitignore
 
 # Local OS files
 .DS_Store

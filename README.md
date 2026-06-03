@@ -114,7 +114,108 @@ whiteboardplanning to production-level cloud deployments.
 
 <br/>
 
-<!-- ⚡ TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=The-Syntax-Slayer&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Streak in ONE ROW -->
+  <a href="https://github.com/The-Syntax-Slayer">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=The-Syntax-Slayer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/The-Syntax-Slayer">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/The-Syntax-Slayer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-Syntax-Slayer&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/The-Syntax-Slayer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Syntax-Slayer&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph pointing to dynamic output branch -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Dynamically updated by GitHub Actions. Watch Pac-Man eat my bugs & syntax errors!</sub>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <img src="./assets/section-tech.svg" width="180"/>
 
 <br/><br/>
@@ -189,40 +290,28 @@ whiteboardplanning to production-level cloud deployments.
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- 📊 GITHUB ANALYTICS -->
-<img src="./assets/section-stats.svg" width="220"/>
-
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   
-  <!-- GitHub Stats + Streak in ONE ROW -->
-  <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=The-Syntax-Slayer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- REAL-TIME LANGUAGE USAGE -->
-  <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-Syntax-Slayer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/The-Syntax-Slayer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-  
+### ⚡ Currently Building & Learning
+
+<br/>
+
+<a href="https://github.com/The-Syntax-Slayer">
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/The-Syntax-Slayer">
+  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/The-Syntax-Slayer">
+  <img src="https://img.shields.io/badge/💬_Chatbots-Conversational_AI-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+
 </div>
 
 <br/>
@@ -231,33 +320,10 @@ whiteboardplanning to production-level cloud deployments.
 
 <br/>
 
-<!-- 🎮 CONTRIBUTION SHOWCASE -->
-<img src="./assets/section-game.svg" width="280"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<br/><br/>
-
-<div align="center">
-  
-  <!-- Pac-Man Contribution Graph pointing to dynamic output branch -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/The-Syntax-Slayer/The-Syntax-Slayer/output/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-  
-  <br/>
-  
-  <sub>👾 Dynamically updated by GitHub Actions. Watch Pac-Man eat my bugs & syntax errors!</sub>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- 🌐 CONNECT WITH ME -->
 <img src="./assets/section-connect.svg" width="160"/>
 
 <br/><br/>
@@ -288,7 +354,10 @@ whiteboardplanning to production-level cloud deployments.
 
 <br/>
 
-<!-- 💡 RANDOM DEV QUOTE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   
   ### 💭 Random Dev Quote
@@ -303,7 +372,14 @@ whiteboardplanning to production-level cloud deployments.
 
 <br/>
 
-<!-- 🌟 FOOTER -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   
   <img src="./assets/footer.svg" width="100%"/>
@@ -320,3 +396,7 @@ whiteboardplanning to production-level cloud deployments.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
   
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
