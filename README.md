@@ -8,7 +8,7 @@
 ║   ███████║██║ ╚═╝ ██║██║  ██║██████╔╝    ███████║███████╗██║  ██║   ██║      ║
 ║   ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ║
 ║                                                                              ║
-║          🚀 SOFTWARE ENGINEER • FULL-STACK DEVELOPER • AI SPECIALIST 🚀      ║
+║     🚀 INNOVATIVE SOFTWARE DEVELOPER • AI ENGINEER • TECH ENTREPRENEUR 🚀    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -66,7 +66,7 @@
 ```yaml
 name: Samad Shaikh
 alias: The Syntax Slayer
-role: Software & AI Engineer
+role: Innovative Software Developer, AI Engineer & Tech Entrepreneur
 location: Mumbai, India 🇮🇳
 status: Available Immediately ⚡
 
@@ -87,21 +87,21 @@ philosophy:
 ### 🚀 Technical Summary
 
 ```yaml
-I am a Software Engineer & AI Integration Specialist
-experienced in architecting, building, and deploying
-enterprise-grade applications. I combine core
-software engineering principles with modern Applied
-GenAI capabilities to build autonomous workflows and
-performantuser interfaces.
+I am an Innovative Software Developer, AI Engineer & Tech
+Entrepreneur based in Bandra, Mumbai, India. I specialize
+in engineering high-performance web applications, SaaS
+platforms, and integrating agentic LLM workflows using
+Python (FastAPI/Tornado), React 19, Next.js, and Google
+Gemini API.
 
-Engineering First: Committed to write clean,
+Engineering First: Committed to writing clean,
 maintainable, and fault-tolerant code using SOLID
-principles and asyncprogramming paradigms.
+principles and async programming paradigms.
 Intelligent Systems: Proficient in orchestrating LLMs,
 designing custom RAG pipelines, and implementing
 strict input/output verification logic.
 Full-Stack Ownership: Able to take features from
-whiteboardplanning to production-level cloud deployments.
+whiteboard planning to production-level cloud deployments.
 ```
 <br/>
 </td>
@@ -342,8 +342,12 @@ whiteboardplanning to production-level cloud deployments.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://the-syntax-slayer.github.io/" target="_blank">
+<a href="https://www.samadshaikh.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1b26" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://samadshaikh.me" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-00ff66?style=for-the-badge&logo=read-the-docs&logoColor=black&labelColor=1a1b26" alt="Resume"/>
 </a>
 
 </div>
