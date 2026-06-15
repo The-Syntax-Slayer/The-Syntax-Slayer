@@ -169,7 +169,7 @@ whiteboard planning to production-level cloud deployments.
   
   <!-- Activity Graph -->
   <a href="https://github.com/The-Syntax-Slayer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Syntax-Slayer&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity&v=2" width="95%" alt="Activity Graph"/>
   </a>
   
   <br/><br/>
