@@ -155,7 +155,7 @@ whiteboard planning to production-level cloud deployments.
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/The-Syntax-Slayer">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
+    <img height="195" src="https://streak-stats.demolab.com/?user=The-Syntax-Slayer&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currstreak=f093fb&sideNums=764ba2&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
