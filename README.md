@@ -66,7 +66,8 @@
 ```yaml
 name: Samad Shaikh
 alias: The Syntax Slayer
-role: Innovative Software Developer, AI Engineer & Tech Entrepreneur
+role: Innovative Software Developer,
+AI Engineer & Tech Entrepreneur
 location: Mumbai, India 🇮🇳
 status: Available Immediately ⚡
 
