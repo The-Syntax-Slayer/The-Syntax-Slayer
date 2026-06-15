@@ -95,6 +95,7 @@ platforms, and integrating agentic LLM workflows using
 Python (FastAPI/Tornado), React 19, Next.js, and Google
 Gemini API.
 
+
 Engineering First: Committed to writing clean,
 maintainable, and fault-tolerant code using SOLID
 principles and async programming paradigms.
