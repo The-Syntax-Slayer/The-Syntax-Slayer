@@ -30,7 +30,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/The-Syntax-Slayer?tab=followers">
-    <img src="https://img.shields.io/github/followers/The-Syntax-Slayer?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=667eea&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FThe-Syntax-Slayer&style=flat-square&labelColor=1a1b26" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/The-Syntax-Slayer">
