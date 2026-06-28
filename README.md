@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/The-Syntax-Slayer?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/The-Syntax-Slayer?style=flat-square&color=f093fb&labelColor=1a1b26&label=Repositories" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=f093fb&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FThe-Syntax-Slayer&style=flat-square&labelColor=1a1b26" alt="Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/The-Syntax-Slayer?tab=followers">
