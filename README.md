@@ -34,7 +34,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/The-Syntax-Slayer">
-    <img src="https://img.shields.io/github/stars/The-Syntax-Slayer?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/The-Syntax-Slayer?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
   </a>
   
 </div>
